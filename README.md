@@ -4,7 +4,7 @@ Hi 👋 My name is Abir Cherif
 Software Engineer
 -----------------
 
-A highly motivated Software Engineer with 2 years of professional experience specializing in building interactive web and mobile applications. Proficient in Flutter, React, Angular, and modern frontend technologies.
+A highly motivated Software Engineer with 2 years of professional experience specializing in building interactive web and mobile applications. Proficient in Flutter, JavaScript, ReactJS, Angular, and modern frontend technologies.
 
 * 🌍  I'm based in Tunisie
 * 🖥️  See my portfolio at https://abir739.github.io/Portfolio_Website/
