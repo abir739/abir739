@@ -18,9 +18,8 @@ I'm a passionate Software Engineer with 2 years of experience building interacti
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-omega-sand-46.vercel.app/api/top-langs/?username=abir739&layout=compact&theme=light" alt="Top Languages" style="width: 90%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abir739&layout=compact&theme=light&hide_border=true" alt="Top Languages" style="width: 90%;" />
 </div>
-
 ---
 
 *Let's build amazing mobile apps together!*
