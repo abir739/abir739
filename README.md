@@ -13,8 +13,8 @@ I'm a passionate Software Engineer with 2 years of experience building interacti
 ### 🛠️ Skills
 - **Mobile Development**: Flutter, Dart, Firebase
 - **Frontend Technologies**: JavaScript, HTML, CSS
-- **Tools & Platforms**: Git, Android Studio, Xcode, VS Code
-- **Familiar With**: UI/UX design principles, state management (Provider, GetX), Hive, notifications
+- **Tools & Platforms**: Git, Android Studio, Xcode, VS Code, Firebase App Distribution
+- **Familiar With**: UI/UX design principles, state management (Provider, GetX), Hive, notifications, CI/CD pipelines
 
 ### 📊 GitHub Stats
 <div align="center">
