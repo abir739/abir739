@@ -7,7 +7,7 @@ I'm a passionate Software Engineer with 2 years of experience building interacti
 - 🌍 Based in **Tunisia**
 - 🧠 Currently mastering **Flutter** and exploring backend tools to complement my mobile development skills
 - 🤝 Open to collaborating on **Flutter-based mobile app projects**
-- 🖥️ Check out my portfolio: https://abir739.github.io/my_portfolio/
+- 🖥️ Check out my portfolio: https://abir739.github.io/personal_website/
 - ✉️ Reach me at [abircherif212@gmail.com](mailto:abircherif212@gmail.com)
 
 ### 🛠️ Skills
