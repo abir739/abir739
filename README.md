@@ -13,7 +13,7 @@ I am actively seeking new challenges to leverage my skills in a dynamic team env
 - ✉️ Reach me at [abircherif212@gmail.com](mailto:abircherif212@gmail.com)
 
 ### 🛠️ Skills
-- ** Programming Languages**: Dart, JavaScript, SQL, PHP
+- **Programming Languages**: Dart, JavaScript, SQL, PHP
 - **Mobile Technologies**: Flutter, Firebase (Auth, Cloud Firestore, FCM, Storage)
 - **State Management**: Bloc, GetX, Riverpod, Provider
 - **Tools & DevOps**: Git, GitLab CI/CD, Docker, VS Code, Hive
