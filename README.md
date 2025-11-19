@@ -31,12 +31,7 @@ Currently working full-time as a **Flutter Developer** on production apps (Googl
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abir739&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abir739&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.dailydashboard.ca/api/streak/abir739?theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
