@@ -1,5 +1,3 @@
-<img align="right" src="https://abir739.github.io/personal_website/assets/images/profile.jpg" width="280" alt="Abir Cherif" style="border-radius:15px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);"/>
-
 # 👋 Hi, I'm Abir Cherif
 
 **Flutter Mobile Developer** • Turning ideas into smooth cross-platform apps  
@@ -18,7 +16,6 @@ Currently sharpening my **Flutter expertise** while **diving deep into Kotlin & 
   <a href="https://kotlinlang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="45" height="45"/></a>
   <a href="https://firebase.google.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="45" height="45"/></a>
   <a href="https://git-scm.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/></a>
-  <br><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="iOS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
@@ -46,8 +43,3 @@ Currently sharpening my **Flutter expertise** while **diving deep into Kotlin & 
 ---
 
 🌱 **Right now**: Building advanced Flutter apps + deep Kotlin/Jetpack Compose learning  
-
-**Let’s build something amazing together!** 🚀
-
-<a href="mailto:abircherif212@gmail.com"><img src="https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=gmail" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/abir-cherif-931770202/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
