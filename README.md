@@ -1,42 +1,53 @@
+<img align="right" src="https://abir739.github.io/personal_website/assets/images/profile.jpg" width="280" alt="Abir Cherif" style="border-radius:15px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);"/>
+
 # 👋 Hi, I'm Abir Cherif
 
-### Flutter Mobile Developer | Cross-Platform & Native Android Enthusiast  
-🔗 [Portfolio](https://abir739.github.io/personal_website/) | [LinkedIn](https://www.linkedin.com/in/abir-cherif-931770202/)
+**Flutter Mobile Developer** • Turning ideas into smooth cross-platform apps  
+Currently sharpening my **Flutter expertise** while **diving deep into Kotlin & Native Android (Jetpack Compose)**
 
-Passionate about crafting **high-performance, beautiful mobile experiences** for millions of users.  
-Currently working full-time as a **Flutter Developer** on production apps (Google Play + App Store) while **deepening my Kotlin skills** to master native Android development and eventually contribute to hybrid/native projects.
+🔗 [Portfolio](https://abir739.github.io/personal_website/) • [LinkedIn](https://www.linkedin.com/in/abir-cherif-931770202/)
 
+> ~3 years shipping & maintaining production apps on **Google Play** and **App Store**  
 ---
 
-### 🛠 Tech Stack & Expertise
+### 🛠 Tech Stack
 
-**Mobile Development**
-- Flutter (MVVM, Clean Architecture) → 2+ years in production
-- Firebase (Auth, Firestore, FCM, Storage, Analytics)
-- State Management: **Provider / Riverpod / GetX**
-- CI/CD: GitLab CI, Fastlane, Codemagic
-- Publishing & Maintenance on **Google Play Console** & **App Store Connect**
+<p align="left">
+  <a href="https://flutter.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="45" height="45"/></a>
+  <a href="https://dart.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="45" height="45"/></a>
+  <a href="https://kotlinlang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="45" height="45"/></a>
+  <a href="https://firebase.google.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="45" height="45"/></a>
+  <a href="https://git-scm.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/></a>
+  <br><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="iOS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+</p>
 
-**Currently mastering**
-- **Kotlin** – Deep dive into native Android (Jetpack Compose, Coroutines, Hilt/Dagger, Room, etc.)
-- Advanced Android performance & architecture
-
-**Other skills**
-- Dart · Kotlin · Swift (basics) · Java · JavaScript · PHP
-- RESTful APIs · WebSockets · Dio/Retrofit · Hive · SQLite
-- Git · Docker · Postman · Swagger · Figma
+**State Management** → Bloc • Riverpod • GetX • Provider  
+**Architecture** → MVVM • Clean Architecture  
+**Currently Mastering** → Jetpack Compose • Hilt • Coroutines • Room
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abir739&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abir739&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&count_private=true" alt="Abir's GitHub Stats"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abir739&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abir739&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
 
-### 🌱 I’m currently…
-- Building complex Flutter apps with Riverpod + Clean Architecture
-- Learning **Jetpack Compose** and modern Android development in depth
-- Writing clean, tested, and maintainable code every day
+🌱 **Right now**: Building advanced Flutter apps + deep Kotlin/Jetpack Compose learning  
+
+**Let’s build something amazing together!** 🚀
+
+<a href="mailto:abircherif212@gmail.com"><img src="https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=gmail" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/abir-cherif-931770202/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
