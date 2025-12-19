@@ -3,7 +3,7 @@
 **Flutter Mobile Developer** • Turning ideas into smooth cross-platform apps  
 Currently sharpening my **Flutter expertise** while **diving deep into Kotlin & Native Android (Jetpack Compose)**
 
-🔗 [Portfolio](https://abir739.github.io/personal_website/) • [LinkedIn](https://www.linkedin.com/in/abir-cherif-931770202/)
+🔗 [Portfolio](https://abir739.github.io/MyPortfolio/) • [LinkedIn](https://www.linkedin.com/in/abir-cherif-931770202/)
 
 > ~3 years shipping & maintaining production apps on **Google Play** and **App Store**  
 ---
