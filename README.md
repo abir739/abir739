@@ -30,16 +30,4 @@ Currently sharpening my **Flutter expertise** while **diving deep into Kotlin & 
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abir739&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&count_private=true" alt="Abir's GitHub Stats"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abir739&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abir739&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
 🌱 **Right now**: Building advanced Flutter apps + deep Kotlin/Jetpack Compose learning  
